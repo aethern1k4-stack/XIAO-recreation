@@ -19,3 +19,7 @@ PCB in Kicad\
 ----------------
 Should be noted that this recreation uses all of XIAO's orignal footprints and symbols AND USE ALL EXACT SAME PHYSICAL COMPONENT PACKAGES TO FUNCTION.\
 In addition to this the parts like PDM microphone and other uneccesary components can be added later.
+
+----------------
+
+|ITEMNUM|NAME|QUANTITY|PRICEPERPART|TOTAL|
