@@ -3,13 +3,13 @@ The Kicad file contains an exact recreation of the XIAO nrf 52840 board to the m
 In addition to the page 1 contains a basic rp2040 that is untraced on pcb.\
 On the second page there is an attempted nice!nanov2 recreation which remains yet to be tested.\
 The nice!nanov2 recreation prototype in the second page requires a trace antenna.\
-Feel free to use the files as you see fit and just credit the original person.\
+Feel free to use the files as you see fit and just credit the original person.
 
 ----------------
 
 The gerbers are also provided in the production files section of this repo.\
 Kicad files are in the base file folder.\
-Bootloader to be used is undecided BUT will likely be made to run ZEPHYR RTOS.\
+Bootloader to be used is undecided BUT will likely be made to run ZEPHYR RTOS.
 
 ----------------
 
@@ -18,4 +18,4 @@ PCB in Kicad\
 
 ----------------
 Should be noted that this recreation uses all of XIAO's orignal footprints and symbols AND USE ALL EXACT SAME PHYSICAL COMPONENT PACKAGES TO FUNCTION.\
-In addition to this the parts like PDM microphone and other uneccesary components can be added later.\
+In addition to this the parts like PDM microphone and other uneccesary components can be added later.
