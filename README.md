@@ -22,4 +22,5 @@ In addition to this the parts like PDM microphone and other uneccesary component
 
 ----------------
 
-|ITEMNUM|NAME|QUANTITY|PRICEPERPART|TOTAL|
+|ITEMNUM|NAME|QUANTITY|TOTAL|
+|-------|----|--------|-----|
