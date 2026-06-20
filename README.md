@@ -14,7 +14,8 @@ Bootloader to be used is undecided BUT will likely be made to run ZEPHYR RTOS.
 ----------------
 
 PCB in Kicad\
-<img width="382" height="513" alt="image" src="https://github.com/user-attachments/assets/a4da1587-86c5-43af-90b1-a1293c3e0e97" />
+<img width="382" height="513" alt="image" src="https://github.com/user-attachments/assets/a4da1587-86c5-43af-90b1-a1293c3e0e97" />     ------>     <img width="388" height="545" alt="image" src="https://github.com/user-attachments/assets/4b86d72f-9358-46a3-b76a-7144328795ef" />
+
 
 ----------------
 Should be noted that this recreation uses all of XIAO's orignal footprints and symbols AND USE ALL EXACT SAME PHYSICAL COMPONENT PACKAGES TO FUNCTION.\
